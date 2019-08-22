@@ -1,0 +1,43 @@
+{
+  "name": "dogshow",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "lodash": "^4.16.4",
+    "mockjs": "^1.0.1-beta3",
+    "query-string": "^4.2.3",
+    "react": "16.8.6",
+    "react-native": "0.60.4",
+    "react-native-audio": "^4.3.0",
+    "react-native-countdown-component": "^2.5.2",
+    "react-native-deprecated-custom-components": "^0.1.2",
+    "react-native-image-picker": "^1.0.2",
+    "react-native-progress": "^3.6.0",
+    "react-native-sound": "^0.11.0",
+    "react-native-swiper": "^1.5.14",
+    "react-native-tab-navigator": "^0.3.4",
+    "react-native-vector-icons": "^6.6.0",
+    "react-native-video": "^5.0.0",
+    "sha1": "^1.1.1",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/runtime": "^7.5.5",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "babel-jest": "^24.8.0",
+    "eslint": "^6.1.0",
+    "jest": "^24.8.0",
+    "metro-react-native-babel-preset": "^0.55.0",
+    "react-test-renderer": "16.8.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
