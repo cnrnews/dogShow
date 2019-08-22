@@ -25,7 +25,7 @@
 * 点赞
 * 点击视频进入详情
 
-![](https://github.com/cnrnews/dogShow/img/list/list.png)
+![](https://github.com/cnrnews/dogShow/blob/master/img/list/list.png)
 
 ### 视频详情
 
@@ -33,10 +33,10 @@
 * 点击评论框进入评论
 * 评论列表
 
-![](https://github.com/cnrnews/dogShow/img/list/detail.png)
+![](https://github.com/cnrnews/dogShow/blob/master/img/list/detail.png)
 
 ### 评论
-![](https://github.com/cnrnews/dogShow/img/list/comment.png)
+![](https://github.com/cnrnews/dogShow/blob/master/img/list/comment.png)
 
 ## 创作
 创作目前没有做完，大概的思路如下：
@@ -44,16 +44,16 @@
 * 音频上传到cloudinary
 * 利用cloudinary的api将视频和音频进行合并
 
-![](https://github.com/cnrnews/dogShow/img/creation/edit-1.gif)
-![](https://github.com/cnrnews/dogShow/img/creation/edit-2.gif)
+![](https://github.com/cnrnews/dogShow/blob/master/img/creation/edit-1.gif)
+![](https://github.com/cnrnews/dogShow/blob/master/img/creation/edit-2.gif)
 
 ## 我
 
 ### 首页
-![](https://github.com/cnrnews/dogShow/img/account/index.png)
+![](https://github.com/cnrnews/dogShow/blob/master/img/account/index.png)
 
 ### 注册
-![](https://github.com/cnrnews/dogShow/img/account/register.png)
+![](https://github.com/cnrnews/dogShow/blob/master/img/account/register.png)
 
 ### 修改资料
-![](https://github.com/cnrnews/dogShow/img/account/edit.png)
+![](https://github.com/cnrnews/dogShow/blob/master/img/account/edit.png)
